@@ -1,0 +1,38 @@
+body,html {
+    background:#000000; 
+    }
+    
+.container {
+    margin-top: 5vh;
+    margin-left: 5vh;
+    font-family:Courier; 
+    font-size:15pt; 
+    color:#FFFFFF; 
+    text-align:left; 
+    font-size:15pt;
+    }
+
+div.container h1 { 
+    font-size:20pt;
+    font-weight:lighter;
+    line-height:20pt;
+    }
+div.container h1 span {
+    color:#F26A44;
+    }
+div.container h4 { 
+    font-size:15pt;
+    font-weight:normal;
+    line-height:20pt;
+    }
+
+a { 
+    color:#ffffff;
+    text-decoration:none;
+    }
+
+a:hover { 
+        color:#727272;
+        text-decoration:none;
+    }
+
